@@ -2,6 +2,10 @@
 
 A full-stack secure notes application built with **React** on the front end and **Spring Boot** on the back end. This app allows users to store notes securely with JWT authentication, two-factor authentication (2FA), and the option to sign in via **Google** or **GitHub**.
 
+**Currently under maintenance due to issues with note creation and authentication. Works locally, fixes are in progress.**
+
+[App Link](http://jt-secure-notes.s3-website-us-east-1.amazonaws.com/)
+
 ## Features
 - **Create, Edit, and Delete Notes:** Users can manage their notes with secure encryption.
 - **JWT Authentication:** JSON Web Tokens (JWT) for secure user authentication.
